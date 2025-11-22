@@ -18,7 +18,7 @@ Trip Planner helps users build day-wise itineraries, recommends places, and esti
 - HTML/CSS/JS (optional frontend)
 
 ## Setup (local)
-1. Clone: git clone https://github.com/yourusername/trip-planner.git
+1. Clone: git clone https://github.com/shanya08-04/trip-planner.git
 2. Create venv: python3 -m venv venv && source venv/bin/activate
 3. Install: pip install -r requirements.txt
 4. Run: python src/main.py
