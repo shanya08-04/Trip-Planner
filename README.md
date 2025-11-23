@@ -136,38 +136,5 @@ travel-planner/
 
 ---
 
-##  Known Issues & Room for Improvement
 
-- **Date format validation** : Currently has some typos in prompts (like `YYYY-MM--DD`). Consider using Python's `datetime.strptime()` for better validation.
-- **Spelling fixes** : A few destination suggestions have minor typos (e.g., "Eiffle Tower" should be "Eiffel Tower").
-- **Better formatting** : The output could use more polish with improved spacing and visual design.
-- **Save your plans** :Add the ability to save itineraries to a JSON file and load them later.
-- **More destinations** :Expand the list beyond the current four cities.
-- **Enhanced validation** – Add more robust input checking and error handling.
-
----
-
-##  Future Enhancement Ideas
-
-Want to take this project further? Here are some exciting possibilities:
-
-- **Build a GUI** using Tkinter or create a web version with Flask
-- **Integrate APIs** for real-time flight and hotel suggestions
-- **Budget breakdown** with cost tracking for different categories
-- **Calendar export** to iCal format for easy scheduling
-- **Multiple itineraries** with full create, read, update, and delete functionality
-- **Weather forecasts** for your destination dates
-- **Collaborative planning** to share trips with friends
-
----
-
-##  License
-
-This is an educational project. Feel free to use, modify, and learn from it!
-
----
-
-##  Acknowledgments
-
-Built as part of the VITyarthi project initiative️.
 
